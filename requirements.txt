@@ -1,2 +1,6 @@
 BeautifulSoup
+chardet
+lxml
+readability-lxml
 requests
+wsgiref
